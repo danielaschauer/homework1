@@ -1,6 +1,9 @@
 # homework1
 This is the first homework.
 
+At the beginning of the exercise the README was updated and the Apache license was inserted. 
+Afterwards a function and a corresponding function check were inserted.
+
    Copyright [2020] [Daniel Aschauer]
 
    Licensed under the Apache License, Version 2.0 (the "License");
